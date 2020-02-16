@@ -11,7 +11,6 @@ import Alamofire
 
 class Service {
     
-    //https://restcountries.eu/rest/v2
     fileprivate var baseUrl = ""
     
     init(baseUrl: String) {
